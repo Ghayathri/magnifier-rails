@@ -24,7 +24,7 @@ This gem adds a single generator "magnifier:install". Running the generator will
 
 to invoke the generator , run: 
 
-$ rails g magnifier:install
+	$ rails g magnifier:install
 
 ## Usage
 
