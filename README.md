@@ -30,13 +30,13 @@ to invoke the generator , run:
 
 Example : 
 
-	$ <script type="text/javascript">
-  	$	('document').ready(function(){
-  	$		('#img').magnifier();
-  	$	});
- 	$ </script>
+	 <script type="text/javascript">
+  		('document').ready(function(){
+  			('#img').magnifier();
+  		});
+ 	 </script>
 
-  	$ <img src="img src" id="img" class="magnify" data-magnifyby="5" style="width:200px; height:150px">
+  	<img src="img src" id="img" class="magnify" data-magnifyby="5" style="width:200px; height:150px">
 
 
 
