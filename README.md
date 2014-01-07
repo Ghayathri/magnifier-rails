@@ -18,7 +18,7 @@ Or install it yourself as:
     $ gem install magnifier-rails
 
 
-## With Asset pipeline disabled
+## Generator
 
 This gem adds a single generator "magnifier:install". Running the generator will copy the required jQuery files to the "app/assets/javascripts/" directory
 
